@@ -1,0 +1,22 @@
+common_region,year,ev_scenario,ai_scenario,combined_electricity_demand_twh,model,prediction
+China,2030,STEPS,Base Case,678.0,Ridge,674.3026822399595
+Europe,2030,STEPS,Base Case,280.83000000000004,Ridge,278.75761564754725
+United States,2030,STEPS,Base Case,517.439,Ridge,527.9010836723778
+World,2030,STEPS,Base Case,1727.0,Ridge,1730.835101839328
+World,2030,STEPS,Headwinds,1450.0,Ridge,1429.98322543177
+World,2030,STEPS,High Efficiency,1573.0,Ridge,1550.713447243351
+World,2030,STEPS,Lift-Off,2045.0,Ridge,2079.1249084911315
+China,2030,STEPS,Base Case,678.0,RandomForestRegressor,366.85657999999995
+Europe,2030,STEPS,Base Case,280.83000000000004,RandomForestRegressor,175.67921999999996
+United States,2030,STEPS,Base Case,517.439,RandomForestRegressor,353.95554000000004
+World,2030,STEPS,Base Case,1727.0,RandomForestRegressor,526.438320000001
+World,2030,STEPS,Headwinds,1450.0,RandomForestRegressor,526.438320000001
+World,2030,STEPS,High Efficiency,1573.0,RandomForestRegressor,526.438320000001
+World,2030,STEPS,Lift-Off,2045.0,RandomForestRegressor,526.438320000001
+China,2030,STEPS,Base Case,678.0,GradientBoostingRegressor,323.70683692212197
+Europe,2030,STEPS,Base Case,280.83000000000004,GradientBoostingRegressor,202.62813352979595
+United States,2030,STEPS,Base Case,517.439,GradientBoostingRegressor,379.1428115474106
+World,2030,STEPS,Base Case,1727.0,GradientBoostingRegressor,592.1429430721207
+World,2030,STEPS,Headwinds,1450.0,GradientBoostingRegressor,592.1429430721207
+World,2030,STEPS,High Efficiency,1573.0,GradientBoostingRegressor,591.922002409968
+World,2030,STEPS,Lift-Off,2045.0,GradientBoostingRegressor,592.1429430721207

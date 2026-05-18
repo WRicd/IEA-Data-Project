@@ -1,0 +1,70 @@
+model,feature,importance
+GradientBoostingRegressor,common_region_World,0.43824066227716035
+GradientBoostingRegressor,ai_capacity_gw,0.4156646099540399
+GradientBoostingRegressor,ev_electricity_twh,0.07089768416346809
+GradientBoostingRegressor,cumulative_ccus_capacity_tpa,0.026392225445753974
+GradientBoostingRegressor,ai_pue,0.018562932098222545
+GradientBoostingRegressor,ev_stock,0.009882800127201118
+GradientBoostingRegressor,ai_load_factor,0.00843575923120929
+GradientBoostingRegressor,ev_sales,0.003702321613260385
+GradientBoostingRegressor,ev_scenario_STEPS,0.003089594299327706
+GradientBoostingRegressor,ev_scenario_Historical,0.002491581677385258
+GradientBoostingRegressor,year,0.002485395812154893
+GradientBoostingRegressor,common_region_United States,0.00010207361415176302
+GradientBoostingRegressor,common_region_China,2.909031657336657e-05
+GradientBoostingRegressor,common_region_North America,2.1788124878383617e-05
+GradientBoostingRegressor,common_region_Central and South America,1.3377606149106182e-06
+GradientBoostingRegressor,common_region_Africa,7.896570835373244e-08
+GradientBoostingRegressor,common_region_Asia Pacific,3.71689101010816e-08
+GradientBoostingRegressor,common_region_Europe,2.7349979550909243e-08
+GradientBoostingRegressor,ai_scenario_Base Case,0.0
+GradientBoostingRegressor,ai_scenario_Headwinds,0.0
+GradientBoostingRegressor,ai_scenario_High Efficiency,0.0
+GradientBoostingRegressor,ai_scenario_Historical,0.0
+GradientBoostingRegressor,ai_scenario_Lift-Off,0.0
+RandomForestRegressor,ai_capacity_gw,0.49421464616545874
+RandomForestRegressor,common_region_World,0.20181416737703103
+RandomForestRegressor,ev_sales,0.11179369092519971
+RandomForestRegressor,cumulative_ccus_capacity_tpa,0.05839291762623534
+RandomForestRegressor,ev_stock,0.04703900384890054
+RandomForestRegressor,ev_electricity_twh,0.03337988419488149
+RandomForestRegressor,ai_pue,0.030787413677830004
+RandomForestRegressor,year,0.008510875728856428
+RandomForestRegressor,ev_scenario_Historical,0.00604737566316158
+RandomForestRegressor,ai_load_factor,0.004582719191387818
+RandomForestRegressor,ev_scenario_STEPS,0.002330813675942534
+RandomForestRegressor,common_region_China,0.0003350260935532147
+RandomForestRegressor,common_region_Asia Pacific,0.00021969129613174783
+RandomForestRegressor,common_region_Africa,0.00019350266847713396
+RandomForestRegressor,common_region_Europe,0.00016410442070847087
+RandomForestRegressor,common_region_United States,0.00013738927285684557
+RandomForestRegressor,common_region_North America,5.6756962439803354e-05
+RandomForestRegressor,common_region_Central and South America,2.1210947439650132e-08
+RandomForestRegressor,ai_scenario_Base Case,0.0
+RandomForestRegressor,ai_scenario_Headwinds,0.0
+RandomForestRegressor,ai_scenario_High Efficiency,0.0
+RandomForestRegressor,ai_scenario_Historical,0.0
+RandomForestRegressor,ai_scenario_Lift-Off,0.0
+Ridge,ai_capacity_gw,4.424379935620099
+Ridge,common_region_World,1.9753053223001824
+Ridge,common_region_Europe,1.9597493622378634
+Ridge,common_region_Asia Pacific,1.5125332790208614
+Ridge,common_region_North America,1.2440827992750658
+Ridge,ai_load_factor,1.2302490475752004
+Ridge,ev_electricity_twh,0.9938231868268693
+Ridge,common_region_Africa,0.6523311403512779
+Ridge,ai_pue,0.5959214609004524
+Ridge,year,0.5857120639294879
+Ridge,common_region_Central and South America,0.3465657745651667
+Ridge,common_region_China,0.09254307011006169
+Ridge,ev_scenario_Historical,0.08869598301150364
+Ridge,ev_scenario_STEPS,0.08869598301150347
+Ridge,common_region_United States,0.03967222400729902
+Ridge,ev_sales,1.0599735181411605e-06
+Ridge,ev_stock,2.625449081245094e-07
+Ridge,cumulative_ccus_capacity_tpa,1.011679637912396e-08
+Ridge,ai_scenario_Base Case,0.0
+Ridge,ai_scenario_Headwinds,0.0
+Ridge,ai_scenario_High Efficiency,0.0
+Ridge,ai_scenario_Historical,0.0
+Ridge,ai_scenario_Lift-Off,0.0

@@ -1,0 +1,6 @@
+{
+  "demand": 0.35,
+  "ev_growth": 0.2,
+  "ai_growth": 0.2,
+  "ccus_buffer": 0.25
+}

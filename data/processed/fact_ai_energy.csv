@@ -1,0 +1,259 @@
+region,common_region,metric,scenario,year,unit,value
+World,World,Total installed capacity (GW),Historical,2020,GW,60.0
+World,World,Total installed capacity (GW),Historical,2023,GW,83.0
+World,World,Total installed capacity (GW),Historical,2024,GW,97.0
+World,World,Total installed capacity (GW),Base Case,2030,GW,226.0
+North America,North America,Total installed capacity (GW),Historical,2020,GW,24.0
+North America,North America,Total installed capacity (GW),Historical,2023,GW,35.0
+North America,North America,Total installed capacity (GW),Historical,2024,GW,43.0
+North America,North America,Total installed capacity (GW),Base Case,2030,GW,102.0
+United States,United States,Total installed capacity (GW),Historical,2020,GW,23.0
+United States,United States,Total installed capacity (GW),Historical,2023,GW,35.0
+United States,United States,Total installed capacity (GW),Historical,2024,GW,42.0
+United States,United States,Total installed capacity (GW),Base Case,2030,GW,100.0
+Central and South America,Central and South America,Total installed capacity (GW),Historical,2020,GW,0.3
+Central and South America,Central and South America,Total installed capacity (GW),Historical,2023,GW,0.4
+Central and South America,Central and South America,Total installed capacity (GW),Historical,2024,GW,0.4
+Central and South America,Central and South America,Total installed capacity (GW),Base Case,2030,GW,0.8
+Europe,Europe,Total installed capacity (GW),Historical,2020,GW,13.0
+Europe,Europe,Total installed capacity (GW),Historical,2023,GW,15.0
+Europe,Europe,Total installed capacity (GW),Historical,2024,GW,16.0
+Europe,Europe,Total installed capacity (GW),Base Case,2030,GW,27.0
+Africa,Africa,Total installed capacity (GW),Historical,2020,GW,0.3
+Africa,Africa,Total installed capacity (GW),Historical,2023,GW,0.3
+Africa,Africa,Total installed capacity (GW),Historical,2024,GW,0.4
+Africa,Africa,Total installed capacity (GW),Base Case,2030,GW,0.7
+Middle East,Middle East,Total installed capacity (GW),Historical,2020,GW,0.3
+Middle East,Middle East,Total installed capacity (GW),Historical,2023,GW,0.3
+Middle East,Middle East,Total installed capacity (GW),Historical,2024,GW,0.4
+Middle East,Middle East,Total installed capacity (GW),Base Case,2030,GW,0.7
+Asia Pacific,Asia Pacific,Total installed capacity (GW),Historical,2020,GW,21.0
+Asia Pacific,Asia Pacific,Total installed capacity (GW),Historical,2023,GW,30.0
+Asia Pacific,Asia Pacific,Total installed capacity (GW),Historical,2024,GW,36.0
+Asia Pacific,Asia Pacific,Total installed capacity (GW),Base Case,2030,GW,92.0
+China,China,Total installed capacity (GW),Historical,2020,GW,14.0
+China,China,Total installed capacity (GW),Historical,2023,GW,20.0
+China,China,Total installed capacity (GW),Historical,2024,GW,24.0
+China,China,Total installed capacity (GW),Base Case,2030,GW,67.0
+World,World,IT installed capacity (GW),Historical,2020,GW,38.0
+World,World,IT installed capacity (GW),Historical,2023,GW,57.0
+World,World,IT installed capacity (GW),Historical,2024,GW,68.0
+World,World,IT installed capacity (GW),Base Case,2030,GW,174.0
+North America,North America,IT installed capacity (GW),Historical,2020,GW,17.0
+North America,North America,IT installed capacity (GW),Historical,2023,GW,26.0
+North America,North America,IT installed capacity (GW),Historical,2024,GW,32.0
+North America,North America,IT installed capacity (GW),Base Case,2030,GW,82.0
+United States,United States,IT installed capacity (GW),Historical,2020,GW,17.0
+United States,United States,IT installed capacity (GW),Historical,2023,GW,26.0
+United States,United States,IT installed capacity (GW),Historical,2024,GW,31.0
+United States,United States,IT installed capacity (GW),Base Case,2030,GW,81.0
+Central and South America,Central and South America,IT installed capacity (GW),Historical,2020,GW,0.2
+Central and South America,Central and South America,IT installed capacity (GW),Historical,2023,GW,0.2
+Central and South America,Central and South America,IT installed capacity (GW),Historical,2024,GW,0.2
+Central and South America,Central and South America,IT installed capacity (GW),Base Case,2030,GW,0.5
+Europe,Europe,IT installed capacity (GW),Historical,2020,GW,8.0
+Europe,Europe,IT installed capacity (GW),Historical,2023,GW,10.0
+Europe,Europe,IT installed capacity (GW),Historical,2024,GW,11.0
+Europe,Europe,IT installed capacity (GW),Base Case,2030,GW,21.0
+Africa,Africa,IT installed capacity (GW),Historical,2020,GW,0.1
+Africa,Africa,IT installed capacity (GW),Historical,2023,GW,0.2
+Africa,Africa,IT installed capacity (GW),Historical,2024,GW,0.2
+Africa,Africa,IT installed capacity (GW),Base Case,2030,GW,0.5
+Middle East,Middle East,IT installed capacity (GW),Historical,2020,GW,0.1
+Middle East,Middle East,IT installed capacity (GW),Historical,2023,GW,0.2
+Middle East,Middle East,IT installed capacity (GW),Historical,2024,GW,0.2
+Middle East,Middle East,IT installed capacity (GW),Base Case,2030,GW,0.4
+Asia Pacific,Asia Pacific,IT installed capacity (GW),Historical,2020,GW,12.0
+Asia Pacific,Asia Pacific,IT installed capacity (GW),Historical,2023,GW,19.0
+Asia Pacific,Asia Pacific,IT installed capacity (GW),Historical,2024,GW,24.0
+Asia Pacific,Asia Pacific,IT installed capacity (GW),Base Case,2030,GW,67.0
+China,China,IT installed capacity (GW),Historical,2020,GW,8.0
+China,China,IT installed capacity (GW),Historical,2023,GW,13.0
+China,China,IT installed capacity (GW),Historical,2024,GW,16.0
+China,China,IT installed capacity (GW),Base Case,2030,GW,49.0
+World,World,Power usage effectiveness,Historical,2020,ratio,1.53
+World,World,Power usage effectiveness,Historical,2023,ratio,1.43
+World,World,Power usage effectiveness,Historical,2024,ratio,1.41
+World,World,Power usage effectiveness,Base Case,2030,ratio,1.29
+North America,North America,Power usage effectiveness,Historical,2020,ratio,1.39
+North America,North America,Power usage effectiveness,Historical,2023,ratio,1.32
+North America,North America,Power usage effectiveness,Historical,2024,ratio,1.32
+North America,North America,Power usage effectiveness,Base Case,2030,ratio,1.24
+United States,United States,Power usage effectiveness,Historical,2020,ratio,1.39
+United States,United States,Power usage effectiveness,Historical,2023,ratio,1.31
+United States,United States,Power usage effectiveness,Historical,2024,ratio,1.32
+United States,United States,Power usage effectiveness,Base Case,2030,ratio,1.23
+Central and South America,Central and South America,Power usage effectiveness,Historical,2020,ratio,1.82
+Central and South America,Central and South America,Power usage effectiveness,Historical,2023,ratio,1.73
+Central and South America,Central and South America,Power usage effectiveness,Historical,2024,ratio,1.7
+Central and South America,Central and South America,Power usage effectiveness,Base Case,2030,ratio,1.5
+Europe,Europe,Power usage effectiveness,Historical,2020,ratio,1.57
+Europe,Europe,Power usage effectiveness,Historical,2023,ratio,1.47
+Europe,Europe,Power usage effectiveness,Historical,2024,ratio,1.45
+Europe,Europe,Power usage effectiveness,Base Case,2030,ratio,1.29
+Africa,Africa,Power usage effectiveness,Historical,2020,ratio,1.97
+Africa,Africa,Power usage effectiveness,Historical,2023,ratio,1.85
+Africa,Africa,Power usage effectiveness,Historical,2024,ratio,1.81
+Africa,Africa,Power usage effectiveness,Base Case,2030,ratio,1.59
+Middle East,Middle East,Power usage effectiveness,Historical,2020,ratio,2.06
+Middle East,Middle East,Power usage effectiveness,Historical,2023,ratio,1.96
+Middle East,Middle East,Power usage effectiveness,Historical,2024,ratio,1.92
+Middle East,Middle East,Power usage effectiveness,Base Case,2030,ratio,1.7
+Asia Pacific,Asia Pacific,Power usage effectiveness,Historical,2020,ratio,1.68
+Asia Pacific,Asia Pacific,Power usage effectiveness,Historical,2023,ratio,1.55
+Asia Pacific,Asia Pacific,Power usage effectiveness,Historical,2024,ratio,1.5
+Asia Pacific,Asia Pacific,Power usage effectiveness,Base Case,2030,ratio,1.35
+China,China,Power usage effectiveness,Historical,2020,ratio,1.67
+China,China,Power usage effectiveness,Historical,2023,ratio,1.56
+China,China,Power usage effectiveness,Historical,2024,ratio,1.5
+China,China,Power usage effectiveness,Base Case,2030,ratio,1.35
+World,World,Load factor (%),Historical,2020,percent,51.0
+World,World,Load factor (%),Historical,2023,percent,49.0
+World,World,Load factor (%),Historical,2024,percent,49.0
+World,World,Load factor (%),Base Case,2030,percent,48.0
+North America,North America,Load factor (%),Historical,2020,percent,53.0
+North America,North America,Load factor (%),Historical,2023,percent,51.0
+North America,North America,Load factor (%),Historical,2024,percent,50.0
+North America,North America,Load factor (%),Base Case,2030,percent,48.0
+United States,United States,Load factor (%),Historical,2020,percent,53.0
+United States,United States,Load factor (%),Historical,2023,percent,51.0
+United States,United States,Load factor (%),Historical,2024,percent,50.0
+United States,United States,Load factor (%),Base Case,2030,percent,49.0
+Central and South America,Central and South America,Load factor (%),Historical,2020,percent,50.0
+Central and South America,Central and South America,Load factor (%),Historical,2023,percent,48.0
+Central and South America,Central and South America,Load factor (%),Historical,2024,percent,47.0
+Central and South America,Central and South America,Load factor (%),Base Case,2030,percent,46.0
+Europe,Europe,Load factor (%),Historical,2020,percent,51.0
+Europe,Europe,Load factor (%),Historical,2023,percent,49.0
+Europe,Europe,Load factor (%),Historical,2024,percent,48.0
+Europe,Europe,Load factor (%),Base Case,2030,percent,48.0
+Africa,Africa,Load factor (%),Historical,2020,percent,49.0
+Africa,Africa,Load factor (%),Historical,2023,percent,46.0
+Africa,Africa,Load factor (%),Historical,2024,percent,46.0
+Africa,Africa,Load factor (%),Base Case,2030,percent,45.0
+Middle East,Middle East,Load factor (%),Historical,2020,percent,49.0
+Middle East,Middle East,Load factor (%),Historical,2023,percent,46.0
+Middle East,Middle East,Load factor (%),Historical,2024,percent,46.0
+Middle East,Middle East,Load factor (%),Base Case,2030,percent,45.0
+Asia Pacific,Asia Pacific,Load factor (%),Historical,2020,percent,50.0
+Asia Pacific,Asia Pacific,Load factor (%),Historical,2023,percent,48.0
+Asia Pacific,Asia Pacific,Load factor (%),Historical,2024,percent,48.0
+Asia Pacific,Asia Pacific,Load factor (%),Base Case,2030,percent,47.0
+China,China,Load factor (%),Historical,2020,percent,50.0
+China,China,Load factor (%),Historical,2023,percent,48.0
+China,China,Load factor (%),Historical,2024,percent,48.0
+China,China,Load factor (%),Base Case,2030,percent,47.0
+World,World,Total electricity consumption (TWh),Historical,2020,TWh,269.0
+World,World,Total electricity consumption (TWh),Historical,2023,TWh,361.0
+World,World,Total electricity consumption (TWh),Historical,2024,TWh,416.0
+World,World,Total electricity consumption (TWh),Base Case,2030,TWh,946.0
+North America,North America,Total electricity consumption (TWh),Historical,2020,TWh,112.0
+North America,North America,Total electricity consumption (TWh),Historical,2023,TWh,158.0
+North America,North America,Total electricity consumption (TWh),Historical,2024,TWh,187.0
+North America,North America,Total electricity consumption (TWh),Base Case,2030,TWh,434.0
+United States,United States,Total electricity consumption (TWh),Historical,2020,TWh,108.0
+United States,United States,Total electricity consumption (TWh),Historical,2023,TWh,154.0
+United States,United States,Total electricity consumption (TWh),Historical,2024,TWh,183.0
+United States,United States,Total electricity consumption (TWh),Base Case,2030,TWh,426.0
+Central and South America,Central and South America,Total electricity consumption (TWh),Historical,2020,TWh,1.5
+Central and South America,Central and South America,Total electricity consumption (TWh),Historical,2023,TWh,1.5
+Central and South America,Central and South America,Total electricity consumption (TWh),Historical,2024,TWh,1.7
+Central and South America,Central and South America,Total electricity consumption (TWh),Base Case,2030,TWh,3.3
+Europe,Europe,Total electricity consumption (TWh),Historical,2020,TWh,57.0
+Europe,Europe,Total electricity consumption (TWh),Historical,2023,TWh,66.0
+Europe,Europe,Total electricity consumption (TWh),Historical,2024,TWh,68.0
+Europe,Europe,Total electricity consumption (TWh),Base Case,2030,TWh,113.0
+Africa,Africa,Total electricity consumption (TWh),Historical,2020,TWh,1.1
+Africa,Africa,Total electricity consumption (TWh),Historical,2023,TWh,1.3
+Africa,Africa,Total electricity consumption (TWh),Historical,2024,TWh,1.4
+Africa,Africa,Total electricity consumption (TWh),Base Case,2030,TWh,2.9
+Middle East,Middle East,Total electricity consumption (TWh),Historical,2020,TWh,1.1
+Middle East,Middle East,Total electricity consumption (TWh),Historical,2023,TWh,1.3
+Middle East,Middle East,Total electricity consumption (TWh),Historical,2024,TWh,1.5
+Middle East,Middle East,Total electricity consumption (TWh),Base Case,2030,TWh,3.0
+Asia Pacific,Asia Pacific,Total electricity consumption (TWh),Historical,2020,TWh,93.0
+Asia Pacific,Asia Pacific,Total electricity consumption (TWh),Historical,2023,TWh,128.0
+Asia Pacific,Asia Pacific,Total electricity consumption (TWh),Historical,2024,TWh,150.0
+Asia Pacific,Asia Pacific,Total electricity consumption (TWh),Base Case,2030,TWh,378.0
+China,China,Total electricity consumption (TWh),Historical,2020,TWh,62.0
+China,China,Total electricity consumption (TWh),Historical,2023,TWh,84.0
+China,China,Total electricity consumption (TWh),Historical,2024,TWh,102.0
+China,China,Total electricity consumption (TWh),Base Case,2030,TWh,277.0
+World,World,IT electricity consumption (TWh),Historical,2020,TWh,176.0
+World,World,IT electricity consumption (TWh),Historical,2023,TWh,252.0
+World,World,IT electricity consumption (TWh),Historical,2024,TWh,295.0
+World,World,IT electricity consumption (TWh),Base Case,2030,TWh,733.0
+North America,North America,IT electricity consumption (TWh),Historical,2020,TWh,80.0
+North America,North America,IT electricity consumption (TWh),Historical,2023,TWh,120.0
+North America,North America,IT electricity consumption (TWh),Historical,2024,TWh,142.0
+North America,North America,IT electricity consumption (TWh),Base Case,2030,TWh,351.0
+United States,United States,IT electricity consumption (TWh),Historical,2020,TWh,78.0
+United States,United States,IT electricity consumption (TWh),Historical,2023,TWh,117.0
+United States,United States,IT electricity consumption (TWh),Historical,2024,TWh,139.0
+United States,United States,IT electricity consumption (TWh),Base Case,2030,TWh,345.0
+Central and South America,Central and South America,IT electricity consumption (TWh),Historical,2020,TWh,0.8
+Central and South America,Central and South America,IT electricity consumption (TWh),Historical,2023,TWh,0.8
+Central and South America,Central and South America,IT electricity consumption (TWh),Historical,2024,TWh,1.0
+Central and South America,Central and South America,IT electricity consumption (TWh),Base Case,2030,TWh,2.2
+Europe,Europe,IT electricity consumption (TWh),Historical,2020,TWh,36.0
+Europe,Europe,IT electricity consumption (TWh),Historical,2023,TWh,45.0
+Europe,Europe,IT electricity consumption (TWh),Historical,2024,TWh,47.0
+Europe,Europe,IT electricity consumption (TWh),Base Case,2030,TWh,88.0
+Africa,Africa,IT electricity consumption (TWh),Historical,2020,TWh,0.6
+Africa,Africa,IT electricity consumption (TWh),Historical,2023,TWh,0.7
+Africa,Africa,IT electricity consumption (TWh),Historical,2024,TWh,0.8
+Africa,Africa,IT electricity consumption (TWh),Base Case,2030,TWh,1.8
+Middle East,Middle East,IT electricity consumption (TWh),Historical,2020,TWh,0.5
+Middle East,Middle East,IT electricity consumption (TWh),Historical,2023,TWh,0.7
+Middle East,Middle East,IT electricity consumption (TWh),Historical,2024,TWh,0.8
+Middle East,Middle East,IT electricity consumption (TWh),Base Case,2030,TWh,1.7
+Asia Pacific,Asia Pacific,IT electricity consumption (TWh),Historical,2020,TWh,55.0
+Asia Pacific,Asia Pacific,IT electricity consumption (TWh),Historical,2023,TWh,82.0
+Asia Pacific,Asia Pacific,IT electricity consumption (TWh),Historical,2024,TWh,100.0
+Asia Pacific,Asia Pacific,IT electricity consumption (TWh),Base Case,2030,TWh,281.0
+China,China,IT electricity consumption (TWh),Historical,2020,TWh,37.0
+China,China,IT electricity consumption (TWh),Historical,2023,TWh,54.0
+China,China,IT electricity consumption (TWh),Historical,2024,TWh,68.0
+China,China,IT electricity consumption (TWh),Base Case,2030,TWh,205.0
+World,World,Total electricity consumption (TWh),Base Case,2035,TWh,1193.0
+World,World,Total electricity consumption (TWh),Lift-Off,2030,TWh,1264.0
+World,World,Total electricity consumption (TWh),Lift-Off,2035,TWh,1719.0
+World,World,Total electricity consumption (TWh),High Efficiency,2030,TWh,792.0
+World,World,Total electricity consumption (TWh),High Efficiency,2035,TWh,972.0
+World,World,Total electricity consumption (TWh),Headwinds,2030,TWh,669.0
+World,World,Total electricity consumption (TWh),Headwinds,2035,TWh,707.0
+World,World,IT electricity consumption (TWh),Base Case,2035,TWh,985.0
+World,World,IT electricity consumption (TWh),Lift-Off,2030,TWh,972.0
+World,World,IT electricity consumption (TWh),Lift-Off,2035,TWh,1409.0
+World,World,IT electricity consumption (TWh),High Efficiency,2030,TWh,657.0
+World,World,IT electricity consumption (TWh),High Efficiency,2035,TWh,864.0
+World,World,IT electricity consumption (TWh),Headwinds,2030,TWh,522.0
+World,World,IT electricity consumption (TWh),Headwinds,2035,TWh,587.0
+World,World,Total installed capacity (GW),Base Case,2035,GW,277.0
+World,World,Total installed capacity (GW),Lift-Off,2030,GW,305.0
+World,World,Total installed capacity (GW),Lift-Off,2035,GW,404.0
+World,World,Total installed capacity (GW),High Efficiency,2030,GW,185.0
+World,World,Total installed capacity (GW),High Efficiency,2035,GW,221.0
+World,World,Total installed capacity (GW),Headwinds,2030,GW,158.0
+World,World,Total installed capacity (GW),Headwinds,2035,GW,160.0
+World,World,IT installed capacity (GW),Base Case,2035,GW,228.0
+World,World,IT installed capacity (GW),Lift-Off,2030,GW,233.0
+World,World,IT installed capacity (GW),Lift-Off,2035,GW,330.0
+World,World,IT installed capacity (GW),High Efficiency,2030,GW,153.0
+World,World,IT installed capacity (GW),High Efficiency,2035,GW,196.0
+World,World,IT installed capacity (GW),Headwinds,2030,GW,122.0
+World,World,IT installed capacity (GW),Headwinds,2035,GW,132.0
+World,World,Power usage effectiveness,Base Case,2035,ratio,1.21
+World,World,Power usage effectiveness,Lift-Off,2030,ratio,1.3
+World,World,Power usage effectiveness,Lift-Off,2035,ratio,1.22
+World,World,Power usage effectiveness,High Efficiency,2030,ratio,1.21
+World,World,Power usage effectiveness,High Efficiency,2035,ratio,1.13
+World,World,Power usage effectiveness,Headwinds,2030,ratio,1.28
+World,World,Power usage effectiveness,Headwinds,2035,ratio,1.2
+World,World,Load factor (%),Base Case,2035,percent,49.0
+World,World,Load factor (%),Lift-Off,2030,percent,47.0
+World,World,Load factor (%),Lift-Off,2035,percent,49.0
+World,World,Load factor (%),High Efficiency,2030,percent,49.0
+World,World,Load factor (%),High Efficiency,2035,percent,50.0
+World,World,Load factor (%),Headwinds,2030,percent,48.0
+World,World,Load factor (%),Headwinds,2035,percent,50.0

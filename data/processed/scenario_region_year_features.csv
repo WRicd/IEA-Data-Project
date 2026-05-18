@@ -1,0 +1,130 @@
+common_region,year,ev_scenario,ai_scenario,ccus_scenario,ev_electricity_twh,ai_electricity_twh,combined_electricity_demand_twh,ccus_capacity_tpa,ccus_capacity_mtpa,ccus_buffer_ratio,regional_pressure_score,pressure_class
+Africa,2020,Historical,Historical,operating_only,0.0,1.1,1.1,0.0,0.0,0.0,31.102362204724404,Medium Pressure
+Africa,2023,Historical,Historical,operating_only,0.0,1.3,1.3,0.0,0.0,0.0,48.62204724409449,Medium Pressure
+Africa,2024,Historical,Historical,operating_only,0.0,1.4,1.4,22500.0,0.022500000000000003,16071.428571428572,39.66535433070867,Medium Pressure
+Asia Pacific,2020,Historical,Historical,operating_only,0.0,93.0,93.0,0.0,0.0,0.0,51.77165354330708,High Pressure
+Asia Pacific,2023,Historical,Historical,operating_only,0.0,128.0,128.0,0.0,0.0,0.0,80.90551181102363,Critical Pressure
+Asia Pacific,2024,Historical,Historical,operating_only,0.0,150.0,150.0,0.0,0.0,0.0,76.77165354330707,Critical Pressure
+Central and South America,2020,Historical,Historical,operating_only,0.0,1.5,1.5,6390000.0,6.39,4260000.0,0.9842519685039418,Low Pressure
+Central and South America,2023,Historical,Historical,operating_only,0.0,1.5,1.5,6493500.0,6.4935,4329000.0,0.0,Low Pressure
+Central and South America,2024,Historical,Historical,operating_only,0.0,1.7,1.7,6493500.0,6.4935,3819705.882352941,17.0275590551181,Low Pressure
+China,2020,Historical,Historical,operating_only,0.0,62.0,62.0,0.0,0.0,0.0,42.81496062992126,Medium Pressure
+China,2020,STEPS,Historical,operating_only,0.0,62.0,62.0,0.0,0.0,0.0,42.81496062992126,Medium Pressure
+China,2023,Historical,Historical,operating_only,0.0,84.0,84.0,0.0,0.0,0.0,69.78346456692913,High Pressure
+China,2023,STEPS,Historical,operating_only,0.0,84.0,84.0,0.0,0.0,0.0,49.704724409448815,Medium Pressure
+China,2024,Historical,Historical,operating_only,0.0,102.0,102.0,0.0,0.0,0.0,71.65354330708661,High Pressure
+China,2024,STEPS,Historical,operating_only,103.5,102.0,205.5,0.0,0.0,0.0,69.68503937007874,High Pressure
+China,2030,STEPS,Base Case,operating_only,401.0,277.0,678.0,0.0,0.0,0.0,100.0,Critical Pressure
+Europe,2020,Historical,Historical,operating_only,0.0,57.0,57.0,18156600.0,18.1566,318536.84210526315,27.263779527559052,Medium Pressure
+Europe,2020,STEPS,Historical,operating_only,0.0,57.0,57.0,18156600.0,18.1566,318536.84210526315,27.263779527559052,Medium Pressure
+Europe,2023,Historical,Historical,operating_only,0.0,66.0,66.0,71366400.0,71.36640000000001,1081309.0909090908,35.53149606299212,Medium Pressure
+Europe,2023,STEPS,Historical,operating_only,0.0,66.0,66.0,71366400.0,71.36640000000001,1081309.0909090908,20.964566929133856,Low Pressure
+Europe,2024,Historical,Historical,operating_only,0.0,68.0,68.0,84533850.0,84.53385,1243144.8529411764,31.003937007874015,Medium Pressure
+Europe,2024,STEPS,Historical,operating_only,34.08,68.0,102.08,84533850.0,84.53385,828113.7343260188,35.33464566929134,Medium Pressure
+Europe,2030,STEPS,Base Case,operating_only,167.83,113.0,280.83000000000004,326211300.0,326.2113,1161597.0515970513,67.2244094488189,High Pressure
+North America,2020,Historical,Historical,operating_only,0.0,112.0,112.0,34429950.0,34.42995,307410.26785714284,47.342519685039356,Medium Pressure
+North America,2023,Historical,Historical,operating_only,0.0,158.0,158.0,272392200.0,272.3922,1724001.2658227847,54.23228346456692,High Pressure
+North America,2024,Historical,Historical,operating_only,0.0,187.0,187.0,275759100.0,275.7591,1474647.5935828877,55.21653543307087,High Pressure
+United States,2020,Historical,Historical,operating_only,0.0,108.0,108.0,23134950.0,23.13495,214212.5,48.72047244094488,Medium Pressure
+United States,2020,STEPS,Historical,operating_only,0.0,108.0,108.0,23134950.0,23.13495,214212.5,48.72047244094488,Medium Pressure
+United States,2023,Historical,Historical,operating_only,0.0,154.0,154.0,242560350.0,242.56035000000003,1575067.2077922078,54.42913385826771,High Pressure
+United States,2023,STEPS,Historical,operating_only,0.0,154.0,154.0,242560350.0,242.56035000000003,1575067.2077922078,31.988188976377952,Medium Pressure
+United States,2024,Historical,Historical,operating_only,0.0,183.0,183.0,245861550.0,245.86155000000002,1343505.737704918,55.610236220472444,High Pressure
+United States,2024,STEPS,Historical,operating_only,25.264,183.0,208.264,245861550.0,245.86155000000002,1180528.3198248376,43.996062992125985,Medium Pressure
+United States,2030,STEPS,Base Case,operating_only,91.439,426.0,517.439,437197500.0,437.1975,844925.682061074,76.27952755905513,Critical Pressure
+World,2020,Historical,Historical,operating_only,0.0,269.0,269.0,63332550.0,63.332550000000005,235436.98884758365,63.28740157480315,High Pressure
+World,2020,STEPS,Historical,operating_only,0.0,269.0,269.0,63332550.0,63.332550000000005,235436.98884758365,63.28740157480315,High Pressure
+World,2023,Historical,Historical,operating_only,0.0,361.0,361.0,384767100.0,384.7671,1065836.8421052631,73.91732283464566,High Pressure
+World,2023,STEPS,Historical,operating_only,0.0,361.0,361.0,384767100.0,384.7671,1065836.8421052631,54.6259842519685,High Pressure
+World,2024,Historical,Historical,operating_only,0.0,416.0,416.0,406402650.0,406.40265,976929.4471153846,71.9488188976378,High Pressure
+World,2024,STEPS,Historical,operating_only,176.1,416.0,592.1,406402650.0,406.40265,686375.0211112987,63.87795275590551,High Pressure
+World,2030,STEPS,Base Case,operating_only,781.0,946.0,1727.0,959984100.0,959.9840999999999,555868.0370584829,89.66535433070865,Critical Pressure
+World,2030,STEPS,Headwinds,operating_only,781.0,669.0,1450.0,959984100.0,959.9840999999999,662058.0,67.61811023622046,High Pressure
+World,2030,STEPS,High Efficiency,operating_only,781.0,792.0,1573.0,959984100.0,959.9840999999999,610288.6840432294,69.98031496062993,High Pressure
+World,2030,STEPS,Lift-Off,operating_only,781.0,1264.0,2045.0,959984100.0,959.9840999999999,469429.8777506112,74.70472440944883,High Pressure
+Africa,2020,Historical,Historical,active_projects,0.0,1.1,1.1,0.0,0.0,0.0,31.102362204724404,Medium Pressure
+Africa,2023,Historical,Historical,active_projects,0.0,1.3,1.3,0.0,0.0,0.0,48.62204724409449,Medium Pressure
+Africa,2024,Historical,Historical,active_projects,0.0,1.4,1.4,37500.0,0.037500000000000006,26785.714285714286,39.66535433070867,Medium Pressure
+Asia Pacific,2020,Historical,Historical,active_projects,0.0,93.0,93.0,0.0,0.0,0.0,51.77165354330708,High Pressure
+Asia Pacific,2023,Historical,Historical,active_projects,0.0,128.0,128.0,0.0,0.0,0.0,80.90551181102363,Critical Pressure
+Asia Pacific,2024,Historical,Historical,active_projects,0.0,150.0,150.0,0.0,0.0,0.0,76.77165354330707,Critical Pressure
+Central and South America,2020,Historical,Historical,active_projects,0.0,1.5,1.5,10650000.0,10.649999999999999,7100000.0,0.9842519685039418,Low Pressure
+Central and South America,2023,Historical,Historical,active_projects,0.0,1.5,1.5,10822500.0,10.8225,7215000.0,0.0,Low Pressure
+Central and South America,2024,Historical,Historical,active_projects,0.0,1.7,1.7,10822500.0,10.8225,6366176.470588235,17.0275590551181,Low Pressure
+China,2020,Historical,Historical,active_projects,0.0,62.0,62.0,0.0,0.0,0.0,42.81496062992126,Medium Pressure
+China,2020,STEPS,Historical,active_projects,0.0,62.0,62.0,0.0,0.0,0.0,42.81496062992126,Medium Pressure
+China,2023,Historical,Historical,active_projects,0.0,84.0,84.0,0.0,0.0,0.0,69.78346456692913,High Pressure
+China,2023,STEPS,Historical,active_projects,0.0,84.0,84.0,0.0,0.0,0.0,49.704724409448815,Medium Pressure
+China,2024,Historical,Historical,active_projects,0.0,102.0,102.0,0.0,0.0,0.0,71.65354330708661,High Pressure
+China,2024,STEPS,Historical,active_projects,103.5,102.0,205.5,0.0,0.0,0.0,69.68503937007874,High Pressure
+China,2030,STEPS,Base Case,active_projects,401.0,277.0,678.0,0.0,0.0,0.0,100.0,Critical Pressure
+Europe,2020,Historical,Historical,active_projects,0.0,57.0,57.0,30261000.0,30.261,530894.7368421053,27.263779527559052,Medium Pressure
+Europe,2020,STEPS,Historical,active_projects,0.0,57.0,57.0,30261000.0,30.261,530894.7368421053,27.263779527559052,Medium Pressure
+Europe,2023,Historical,Historical,active_projects,0.0,66.0,66.0,118944000.0,118.94400000000002,1802181.8181818181,35.53149606299212,Medium Pressure
+Europe,2023,STEPS,Historical,active_projects,0.0,66.0,66.0,118944000.0,118.94400000000002,1802181.8181818181,20.964566929133856,Low Pressure
+Europe,2024,Historical,Historical,active_projects,0.0,68.0,68.0,140889750.0,140.88975,2071908.0882352942,31.003937007874015,Medium Pressure
+Europe,2024,STEPS,Historical,active_projects,34.08,68.0,102.08,140889750.0,140.88975,1380189.5572100314,35.33464566929134,Medium Pressure
+Europe,2030,STEPS,Base Case,active_projects,167.83,113.0,280.83000000000004,543685500.0,543.6855,1935995.0859950858,67.2244094488189,High Pressure
+North America,2020,Historical,Historical,active_projects,0.0,112.0,112.0,57383250.0,57.38325,512350.4464285714,47.342519685039356,Medium Pressure
+North America,2023,Historical,Historical,active_projects,0.0,158.0,158.0,453987000.0,453.987,2873335.4430379746,54.23228346456692,High Pressure
+North America,2024,Historical,Historical,active_projects,0.0,187.0,187.0,459598500.0,459.5985,2457745.9893048126,55.21653543307087,High Pressure
+United States,2020,Historical,Historical,active_projects,0.0,108.0,108.0,38558250.0,38.55825,357020.8333333333,48.72047244094488,Medium Pressure
+United States,2020,STEPS,Historical,active_projects,0.0,108.0,108.0,38558250.0,38.55825,357020.8333333333,48.72047244094488,Medium Pressure
+United States,2023,Historical,Historical,active_projects,0.0,154.0,154.0,404267250.0,404.26725,2625112.012987013,54.42913385826771,High Pressure
+United States,2023,STEPS,Historical,active_projects,0.0,154.0,154.0,404267250.0,404.26725,2625112.012987013,31.988188976377952,Medium Pressure
+United States,2024,Historical,Historical,active_projects,0.0,183.0,183.0,409769250.0,409.76925000000006,2239176.229508197,55.610236220472444,High Pressure
+United States,2024,STEPS,Historical,active_projects,25.264,183.0,208.264,409769250.0,409.76925000000006,1967547.1997080627,43.996062992125985,Medium Pressure
+United States,2030,STEPS,Base Case,active_projects,91.439,426.0,517.439,728662500.0,728.6624999999999,1408209.4701017898,76.27952755905513,Critical Pressure
+World,2020,Historical,Historical,active_projects,0.0,269.0,269.0,105554250.0,105.55425,392394.98141263943,63.28740157480315,High Pressure
+World,2020,STEPS,Historical,active_projects,0.0,269.0,269.0,105554250.0,105.55425,392394.98141263943,63.28740157480315,High Pressure
+World,2023,Historical,Historical,active_projects,0.0,361.0,361.0,641278500.0,641.2785,1776394.7368421052,73.91732283464566,High Pressure
+World,2023,STEPS,Historical,active_projects,0.0,361.0,361.0,641278500.0,641.2785,1776394.7368421052,54.6259842519685,High Pressure
+World,2024,Historical,Historical,active_projects,0.0,416.0,416.0,677337750.0,677.3377499999999,1628215.7451923077,71.9488188976378,High Pressure
+World,2024,STEPS,Historical,active_projects,176.1,416.0,592.1,677337750.0,677.3377499999999,1143958.3685188312,63.87795275590551,High Pressure
+World,2030,STEPS,Base Case,active_projects,781.0,946.0,1727.0,1599973500.0,1599.9734999999998,926446.7284308049,89.66535433070865,Critical Pressure
+World,2030,STEPS,Headwinds,active_projects,781.0,669.0,1450.0,1599973500.0,1599.9734999999998,1103430.0,67.61811023622046,High Pressure
+World,2030,STEPS,High Efficiency,active_projects,781.0,792.0,1573.0,1599973500.0,1599.9734999999998,1017147.8067387159,69.98031496062993,High Pressure
+World,2030,STEPS,Lift-Off,active_projects,781.0,1264.0,2045.0,1599973500.0,1599.9734999999998,782383.129584352,74.70472440944883,High Pressure
+Africa,2020,Historical,Historical,all_announced,0.0,1.1,1.1,0.0,0.0,0.0,31.102362204724404,Medium Pressure
+Africa,2023,Historical,Historical,all_announced,0.0,1.3,1.3,0.0,0.0,0.0,48.62204724409449,Medium Pressure
+Africa,2024,Historical,Historical,all_announced,0.0,1.4,1.4,50000.0,0.05,35714.28571428572,39.66535433070867,Medium Pressure
+Asia Pacific,2020,Historical,Historical,all_announced,0.0,93.0,93.0,0.0,0.0,0.0,51.77165354330708,High Pressure
+Asia Pacific,2023,Historical,Historical,all_announced,0.0,128.0,128.0,0.0,0.0,0.0,80.90551181102363,Critical Pressure
+Asia Pacific,2024,Historical,Historical,all_announced,0.0,150.0,150.0,0.0,0.0,0.0,76.77165354330707,Critical Pressure
+Central and South America,2020,Historical,Historical,all_announced,0.0,1.5,1.5,14200000.0,14.2,9466666.666666666,0.9842519685039418,Low Pressure
+Central and South America,2023,Historical,Historical,all_announced,0.0,1.5,1.5,14430000.0,14.43,9620000.0,0.0,Low Pressure
+Central and South America,2024,Historical,Historical,all_announced,0.0,1.7,1.7,14430000.0,14.43,8488235.294117648,17.0275590551181,Low Pressure
+China,2020,Historical,Historical,all_announced,0.0,62.0,62.0,0.0,0.0,0.0,42.81496062992126,Medium Pressure
+China,2020,STEPS,Historical,all_announced,0.0,62.0,62.0,0.0,0.0,0.0,42.81496062992126,Medium Pressure
+China,2023,Historical,Historical,all_announced,0.0,84.0,84.0,0.0,0.0,0.0,69.78346456692913,High Pressure
+China,2023,STEPS,Historical,all_announced,0.0,84.0,84.0,0.0,0.0,0.0,49.704724409448815,Medium Pressure
+China,2024,Historical,Historical,all_announced,0.0,102.0,102.0,0.0,0.0,0.0,71.65354330708661,High Pressure
+China,2024,STEPS,Historical,all_announced,103.5,102.0,205.5,0.0,0.0,0.0,69.68503937007874,High Pressure
+China,2030,STEPS,Base Case,all_announced,401.0,277.0,678.0,0.0,0.0,0.0,100.0,Critical Pressure
+Europe,2020,Historical,Historical,all_announced,0.0,57.0,57.0,40348000.0,40.348,707859.649122807,27.263779527559052,Medium Pressure
+Europe,2020,STEPS,Historical,all_announced,0.0,57.0,57.0,40348000.0,40.348,707859.649122807,27.263779527559052,Medium Pressure
+Europe,2023,Historical,Historical,all_announced,0.0,66.0,66.0,158592000.0,158.592,2402909.090909091,35.53149606299212,Medium Pressure
+Europe,2023,STEPS,Historical,all_announced,0.0,66.0,66.0,158592000.0,158.592,2402909.090909091,20.964566929133856,Low Pressure
+Europe,2024,Historical,Historical,all_announced,0.0,68.0,68.0,187853000.0,187.853,2762544.117647059,31.003937007874015,Medium Pressure
+Europe,2024,STEPS,Historical,all_announced,34.08,68.0,102.08,187853000.0,187.853,1840252.7429467086,35.33464566929134,Medium Pressure
+Europe,2030,STEPS,Base Case,all_announced,167.83,113.0,280.83000000000004,724914000.0,724.914,2581326.781326781,67.2244094488189,High Pressure
+North America,2020,Historical,Historical,all_announced,0.0,112.0,112.0,76511000.0,76.511,683133.9285714285,47.342519685039356,Medium Pressure
+North America,2023,Historical,Historical,all_announced,0.0,158.0,158.0,605316000.0,605.316,3831113.924050633,54.23228346456692,High Pressure
+North America,2024,Historical,Historical,all_announced,0.0,187.0,187.0,612798000.0,612.798,3276994.6524064173,55.21653543307087,High Pressure
+United States,2020,Historical,Historical,all_announced,0.0,108.0,108.0,51411000.0,51.411,476027.77777777775,48.72047244094488,Medium Pressure
+United States,2020,STEPS,Historical,all_announced,0.0,108.0,108.0,51411000.0,51.411,476027.77777777775,48.72047244094488,Medium Pressure
+United States,2023,Historical,Historical,all_announced,0.0,154.0,154.0,539023000.0,539.023,3500149.350649351,54.42913385826771,High Pressure
+United States,2023,STEPS,Historical,all_announced,0.0,154.0,154.0,539023000.0,539.023,3500149.350649351,31.988188976377952,Medium Pressure
+United States,2024,Historical,Historical,all_announced,0.0,183.0,183.0,546359000.0,546.359,2985568.306010929,55.610236220472444,High Pressure
+United States,2024,STEPS,Historical,all_announced,25.264,183.0,208.264,546359000.0,546.359,2623396.266277417,43.996062992125985,Medium Pressure
+United States,2030,STEPS,Base Case,all_announced,91.439,426.0,517.439,971550000.0,971.55,1877612.6268023865,76.27952755905513,Critical Pressure
+World,2020,Historical,Historical,all_announced,0.0,269.0,269.0,140739000.0,140.739,523193.3085501859,63.28740157480315,High Pressure
+World,2020,STEPS,Historical,all_announced,0.0,269.0,269.0,140739000.0,140.739,523193.3085501859,63.28740157480315,High Pressure
+World,2023,Historical,Historical,all_announced,0.0,361.0,361.0,855038000.0,855.038,2368526.3157894737,73.91732283464566,High Pressure
+World,2023,STEPS,Historical,all_announced,0.0,361.0,361.0,855038000.0,855.038,2368526.3157894737,54.6259842519685,High Pressure
+World,2024,Historical,Historical,all_announced,0.0,416.0,416.0,903117000.0,903.117,2170954.326923077,71.9488188976378,High Pressure
+World,2024,STEPS,Historical,all_announced,176.1,416.0,592.1,903117000.0,903.117,1525277.824691775,63.87795275590551,High Pressure
+World,2030,STEPS,Base Case,all_announced,781.0,946.0,1727.0,2133298000.0,2133.298,1235262.3045744065,89.66535433070865,Critical Pressure
+World,2030,STEPS,Headwinds,all_announced,781.0,669.0,1450.0,2133298000.0,2133.298,1471240.0,67.61811023622046,High Pressure
+World,2030,STEPS,High Efficiency,all_announced,781.0,792.0,1573.0,2133298000.0,2133.298,1356197.0756516212,69.98031496062993,High Pressure
+World,2030,STEPS,Lift-Off,all_announced,781.0,1264.0,2045.0,2133298000.0,2133.298,1043177.5061124695,74.70472440944883,High Pressure

@@ -1,0 +1,44 @@
+common_region,year,ev_scenario,ai_scenario,regional_pressure_score,pressure_class,predicted_pressure_class,model
+Africa,2020,Historical,Historical,31.102362204724404,Medium Pressure,Medium Pressure,RandomForestClassifier
+Africa,2023,Historical,Historical,48.62204724409449,Medium Pressure,Medium Pressure,RandomForestClassifier
+Africa,2024,Historical,Historical,39.66535433070867,Medium Pressure,Medium Pressure,RandomForestClassifier
+Asia Pacific,2020,Historical,Historical,51.77165354330708,High Pressure,High Pressure,RandomForestClassifier
+Asia Pacific,2023,Historical,Historical,80.90551181102363,Critical Pressure,Critical Pressure,RandomForestClassifier
+Asia Pacific,2024,Historical,Historical,76.77165354330707,Critical Pressure,Critical Pressure,RandomForestClassifier
+Central and South America,2020,Historical,Historical,0.9842519685039418,Low Pressure,Low Pressure,RandomForestClassifier
+Central and South America,2023,Historical,Historical,0.0,Low Pressure,Low Pressure,RandomForestClassifier
+Central and South America,2024,Historical,Historical,17.0275590551181,Low Pressure,Low Pressure,RandomForestClassifier
+China,2020,Historical,Historical,42.81496062992126,Medium Pressure,Medium Pressure,RandomForestClassifier
+China,2020,STEPS,Historical,42.81496062992126,Medium Pressure,Medium Pressure,RandomForestClassifier
+China,2023,Historical,Historical,69.78346456692913,High Pressure,High Pressure,RandomForestClassifier
+China,2023,STEPS,Historical,49.704724409448815,Medium Pressure,High Pressure,RandomForestClassifier
+China,2024,Historical,Historical,71.65354330708661,High Pressure,High Pressure,RandomForestClassifier
+China,2024,STEPS,Historical,69.68503937007874,High Pressure,High Pressure,RandomForestClassifier
+China,2030,STEPS,Base Case,100.0,Critical Pressure,Critical Pressure,RandomForestClassifier
+Europe,2020,Historical,Historical,27.263779527559052,Medium Pressure,Medium Pressure,RandomForestClassifier
+Europe,2020,STEPS,Historical,27.263779527559052,Medium Pressure,Medium Pressure,RandomForestClassifier
+Europe,2023,Historical,Historical,35.53149606299212,Medium Pressure,Low Pressure,RandomForestClassifier
+Europe,2023,STEPS,Historical,20.964566929133856,Low Pressure,Low Pressure,RandomForestClassifier
+Europe,2024,Historical,Historical,31.003937007874015,Medium Pressure,Low Pressure,RandomForestClassifier
+Europe,2024,STEPS,Historical,35.33464566929134,Medium Pressure,Medium Pressure,RandomForestClassifier
+Europe,2030,STEPS,Base Case,67.2244094488189,High Pressure,High Pressure,RandomForestClassifier
+North America,2020,Historical,Historical,47.342519685039356,Medium Pressure,Medium Pressure,RandomForestClassifier
+North America,2023,Historical,Historical,54.23228346456692,High Pressure,High Pressure,RandomForestClassifier
+North America,2024,Historical,Historical,55.21653543307087,High Pressure,High Pressure,RandomForestClassifier
+United States,2020,Historical,Historical,48.72047244094488,Medium Pressure,Medium Pressure,RandomForestClassifier
+United States,2020,STEPS,Historical,48.72047244094488,Medium Pressure,Medium Pressure,RandomForestClassifier
+United States,2023,Historical,Historical,54.42913385826771,High Pressure,Medium Pressure,RandomForestClassifier
+United States,2023,STEPS,Historical,31.988188976377952,Medium Pressure,Medium Pressure,RandomForestClassifier
+United States,2024,Historical,Historical,55.610236220472444,High Pressure,High Pressure,RandomForestClassifier
+United States,2024,STEPS,Historical,43.996062992125985,Medium Pressure,High Pressure,RandomForestClassifier
+United States,2030,STEPS,Base Case,76.27952755905513,Critical Pressure,High Pressure,RandomForestClassifier
+World,2020,Historical,Historical,63.28740157480315,High Pressure,High Pressure,RandomForestClassifier
+World,2020,STEPS,Historical,63.28740157480315,High Pressure,High Pressure,RandomForestClassifier
+World,2023,Historical,Historical,73.91732283464566,High Pressure,High Pressure,RandomForestClassifier
+World,2023,STEPS,Historical,54.6259842519685,High Pressure,High Pressure,RandomForestClassifier
+World,2024,Historical,Historical,71.9488188976378,High Pressure,High Pressure,RandomForestClassifier
+World,2024,STEPS,Historical,63.87795275590551,High Pressure,High Pressure,RandomForestClassifier
+World,2030,STEPS,Base Case,89.66535433070865,Critical Pressure,Critical Pressure,RandomForestClassifier
+World,2030,STEPS,Headwinds,67.61811023622046,High Pressure,High Pressure,RandomForestClassifier
+World,2030,STEPS,High Efficiency,69.98031496062993,High Pressure,High Pressure,RandomForestClassifier
+World,2030,STEPS,Lift-Off,74.70472440944883,High Pressure,High Pressure,RandomForestClassifier

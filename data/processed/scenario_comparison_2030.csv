@@ -1,0 +1,22 @@
+common_region,scenario_name,combined_electricity_demand_twh,ccus_buffer_ratio,regional_pressure_score,pressure_class,rank
+China,STEPS / Base Case / active_projects,678.0,0.0,100.0,Critical Pressure,1
+World,STEPS / Base Case / active_projects,1727.0,926446.7284308049,89.66535433070865,Critical Pressure,2
+United States,STEPS / Base Case / active_projects,517.439,1408209.4701017898,76.27952755905513,Critical Pressure,3
+Europe,STEPS / Base Case / active_projects,280.83000000000004,1935995.0859950858,67.2244094488189,High Pressure,4
+China,STEPS / Base Case / all_announced,678.0,0.0,100.0,Critical Pressure,1
+World,STEPS / Base Case / all_announced,1727.0,1235262.3045744065,89.66535433070865,Critical Pressure,2
+United States,STEPS / Base Case / all_announced,517.439,1877612.6268023865,76.27952755905513,Critical Pressure,3
+Europe,STEPS / Base Case / all_announced,280.83000000000004,2581326.781326781,67.2244094488189,High Pressure,4
+China,STEPS / Base Case / operating_only,678.0,0.0,100.0,Critical Pressure,1
+World,STEPS / Base Case / operating_only,1727.0,555868.0370584829,89.66535433070865,Critical Pressure,2
+United States,STEPS / Base Case / operating_only,517.439,844925.682061074,76.27952755905513,Critical Pressure,3
+Europe,STEPS / Base Case / operating_only,280.83000000000004,1161597.0515970513,67.2244094488189,High Pressure,4
+World,STEPS / Headwinds / active_projects,1450.0,1103430.0,67.61811023622046,High Pressure,1
+World,STEPS / Headwinds / all_announced,1450.0,1471240.0,67.61811023622046,High Pressure,1
+World,STEPS / Headwinds / operating_only,1450.0,662058.0,67.61811023622046,High Pressure,1
+World,STEPS / High Efficiency / active_projects,1573.0,1017147.8067387159,69.98031496062993,High Pressure,1
+World,STEPS / High Efficiency / all_announced,1573.0,1356197.0756516212,69.98031496062993,High Pressure,1
+World,STEPS / High Efficiency / operating_only,1573.0,610288.6840432294,69.98031496062993,High Pressure,1
+World,STEPS / Lift-Off / active_projects,2045.0,782383.129584352,74.70472440944883,High Pressure,1
+World,STEPS / Lift-Off / all_announced,2045.0,1043177.5061124695,74.70472440944883,High Pressure,1
+World,STEPS / Lift-Off / operating_only,2045.0,469429.8777506112,74.70472440944883,High Pressure,1

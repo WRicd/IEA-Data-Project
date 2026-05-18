@@ -1,0 +1,20 @@
+check_name,severity,status,details,row_count,created_at
+raw_file_exists:IEA-EV-Data-2023.csv,INFO,PASS,C:\WorkSpace\IEA-EV-Data\data\raw\IEA-EV-Data-2023.csv,0,2026-05-18T14:58:09
+raw_file_exists:IEA-EV-Data-2024.csv,INFO,PASS,C:\WorkSpace\IEA-EV-Data\data\raw\IEA-EV-Data-2024.csv,0,2026-05-18T14:58:09
+raw_file_exists:IEA-EV-Data-2025.xlsx,INFO,PASS,C:\WorkSpace\IEA-EV-Data\data\raw\IEA-EV-Data-2025.xlsx,0,2026-05-18T14:58:09
+raw_file_exists:Data_Energy_and_AI.xlsx,INFO,PASS,C:\WorkSpace\IEA-EV-Data\data\raw\Data_Energy_and_AI.xlsx,0,2026-05-18T14:58:09
+raw_file_exists:IEA-CCUS-2026.xlsx,INFO,PASS,C:\WorkSpace\IEA-EV-Data\data\raw\IEA-CCUS-2026.xlsx,0,2026-05-18T14:58:09
+workbook_readable:Data_Energy_and_AI.xlsx,INFO,PASS,"World Data,Regional Data",0,2026-05-18T14:58:09
+workbook_readable:IEA-CCUS-2026.xlsx,INFO,PASS,"Notes,Definitions and assumptions,DRAFT CCUS Projects Database",0,2026-05-18T14:58:09
+database_backend,INFO,PASS,backend=duckdb,0,2026-05-18T14:58:09
+table_non_empty:fact_ev,INFO,PASS,fact_ev,32888,2026-05-18T14:58:09
+table_non_empty:fact_ai_energy,INFO,PASS,fact_ai_energy,258,2026-05-18T14:58:09
+table_non_empty:fact_ccus_project,INFO,PASS,fact_ccus_project,1110,2026-05-18T14:58:09
+table_non_empty:feature_ev_region_year,INFO,PASS,feature_ev_region_year,709,2026-05-18T14:58:09
+table_non_empty:feature_ai_region_year,INFO,PASS,feature_ai_region_year,43,2026-05-18T14:58:09
+table_non_empty:feature_ccus_region_year,INFO,PASS,feature_ccus_region_year,2184,2026-05-18T14:58:09
+table_non_empty:ml_region_year_features,INFO,PASS,ml_region_year_features,43,2026-05-18T14:58:09
+ai_required_metrics,INFO,PASS,,0,2026-05-18T14:58:09
+ccus_capacity_numeric,INFO,PASS,mtpa=2464.427,1110,2026-05-18T14:58:09
+pressure_score_range,INFO,PASS,"min=0.0, max=100.0",43,2026-05-18T14:58:09
+scenario_region_year_features_non_empty,INFO,PASS,,129,2026-05-18T14:58:09

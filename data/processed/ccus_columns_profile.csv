@@ -1,0 +1,40 @@
+sheet_name,column_name,normalized_column
+Notes,Unnamed: 0,unnamed_0
+Notes,Unnamed: 1,unnamed_1
+Notes,Unnamed: 2,unnamed_2
+Definitions and assumptions,Unnamed: 0,unnamed_0
+Definitions and assumptions,Unnamed: 1,unnamed_1
+Definitions and assumptions,Unnamed: 2,unnamed_2
+DRAFT CCUS Projects Database,Project name,project_name
+DRAFT CCUS Projects Database,ID,id
+DRAFT CCUS Projects Database,Country or economy,country_or_economy
+DRAFT CCUS Projects Database,Region,region
+DRAFT CCUS Projects Database,Partners,partners
+DRAFT CCUS Projects Database,Project type,project_type
+DRAFT CCUS Projects Database,Announcement,announcement
+DRAFT CCUS Projects Database,FID,fid
+DRAFT CCUS Projects Database,Operation,operation
+DRAFT CCUS Projects Database,Suspension/decommissioning/cancellation,suspension_decommissioning_cancellation
+DRAFT CCUS Projects Database,Project status,project_status
+DRAFT CCUS Projects Database,Project phase,project_phase
+DRAFT CCUS Projects Database,Announced capacity (Mt CO2/yr),announced_capacity_mt_co2_yr
+DRAFT CCUS Projects Database,Estimated capacity by IEA (Mt CO2/yr),estimated_capacity_by_iea_mt_co2_yr
+DRAFT CCUS Projects Database,CDR capacity (Mt CO2/yr),cdr_capacity_mt_co2_yr
+DRAFT CCUS Projects Database,Sector,sector
+DRAFT CCUS Projects Database,Subsector,subsector
+DRAFT CCUS Projects Database,Fate of carbon,fate_of_carbon
+DRAFT CCUS Projects Database,Part of CCUS hub,part_of_ccus_hub
+DRAFT CCUS Projects Database,Ref 1,ref_1
+DRAFT CCUS Projects Database,Ref 2,ref_2
+DRAFT CCUS Projects Database,Ref 3,ref_3
+DRAFT CCUS Projects Database,Ref 4,ref_4
+DRAFT CCUS Projects Database,Ref 5,ref_5
+DRAFT CCUS Projects Database,Ref 6,ref_6
+DRAFT CCUS Projects Database,Ref 7,ref_7
+DRAFT CCUS Projects Database,Link 1,link_1
+DRAFT CCUS Projects Database,Link 2,link_2
+DRAFT CCUS Projects Database,Link 3,link_3
+DRAFT CCUS Projects Database,Link 4,link_4
+DRAFT CCUS Projects Database,Link 5,link_5
+DRAFT CCUS Projects Database,Link 6,link_6
+DRAFT CCUS Projects Database,Link 7,link_7

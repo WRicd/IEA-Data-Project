@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="560" viewBox="0 0 980 560">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="490" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#222">2030 electricity demand: EVs vs AI data centers</text>
+<line x1="86" y1="430.0" x2="906" y2="430.0" stroke="#e8e8e8"/>
+<text x="76" y="434.0" text-anchor="end" font-family="Arial" font-size="11" fill="#555">0.0</text>
+<line x1="86" y1="358.0" x2="906" y2="358.0" stroke="#e8e8e8"/>
+<text x="76" y="362.0" text-anchor="end" font-family="Arial" font-size="11" fill="#555">90.0</text>
+<line x1="86" y1="286.0" x2="906" y2="286.0" stroke="#e8e8e8"/>
+<text x="76" y="290.0" text-anchor="end" font-family="Arial" font-size="11" fill="#555">180</text>
+<line x1="86" y1="214.0" x2="906" y2="214.0" stroke="#e8e8e8"/>
+<text x="76" y="218.0" text-anchor="end" font-family="Arial" font-size="11" fill="#555">270</text>
+<line x1="86" y1="142.0" x2="906" y2="142.0" stroke="#e8e8e8"/>
+<text x="76" y="146.0" text-anchor="end" font-family="Arial" font-size="11" fill="#555">360</text>
+<line x1="86" y1="70.0" x2="906" y2="70.0" stroke="#e8e8e8"/>
+<text x="76" y="74.0" text-anchor="end" font-family="Arial" font-size="11" fill="#555">450</text>
+<rect x="203.7" y="89.2" width="34.0" height="340.8" rx="3" fill="#5c6b73"/>
+<rect x="241.7" y="356.8" width="34.0" height="73.2" rx="3" fill="#d1893b"/>
+<text x="222.7" y="450" text-anchor="middle" font-family="Arial" font-size="11" fill="#333" transform="rotate(25 222.7,450)">United States</text>
+<rect x="477.0" y="208.4" width="34.0" height="221.6" rx="3" fill="#5c6b73"/>
+<rect x="515.0" y="109.2" width="34.0" height="320.8" rx="3" fill="#d1893b"/>
+<text x="496.0" y="450" text-anchor="middle" font-family="Arial" font-size="11" fill="#333" transform="rotate(25 496.0,450)">China</text>
+<rect x="750.3" y="339.6" width="34.0" height="90.4" rx="3" fill="#5c6b73"/>
+<rect x="788.3" y="295.7" width="34.0" height="134.3" rx="3" fill="#d1893b"/>
+<text x="769.3" y="450" text-anchor="middle" font-family="Arial" font-size="11" fill="#333" transform="rotate(25 769.3,450)">Europe</text>
+<rect x="650" y="70" width="14" height="14" fill="#5c6b73"/>
+<text x="670" y="82" font-family="Arial" font-size="12" fill="#333">AI data centers, 2030 Base</text>
+<rect x="650" y="92" width="14" height="14" fill="#d1893b"/>
+<text x="670" y="104" font-family="Arial" font-size="12" fill="#333">EVs, 2030 IEA STEPS</text>
+<text x="32" y="250" text-anchor="middle" font-family="Arial" font-size="12" fill="#333" transform="rotate(-90 32,250)">Electricity demand (TWh)</text>
+</svg>

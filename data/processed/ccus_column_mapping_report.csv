@@ -1,0 +1,13 @@
+source_column,standard_field
+Project name,project_name
+Country or economy,country
+Region,region_group
+Project status,status
+Project status,status_standardized
+Sector,sector
+Project type,capture_type
+Fate of carbon,storage_type/utilization_type
+Operation,start_year
+Announcement,announced_year
+Estimated capacity by IEA (Mt CO2/yr),capacity_mtpa
+Announced capacity (Mt CO2/yr),capacity_mtpa fallback

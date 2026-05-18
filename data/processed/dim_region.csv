@@ -1,0 +1,28 @@
+raw_region,common_region,iso3,region_group,is_country
+World,World,,World,False
+China,China,CHN,Asia Pacific,True
+Europe,Europe,,Europe,False
+North America,North America,,North America,False
+United States,United States,USA,North America,True
+USA,United States,USA,North America,True
+Asia Pacific,Asia Pacific,,Asia Pacific,False
+Central and South America,Central and South America,,Central and South America,False
+Africa,Africa,,Africa,False
+Middle East,Middle East,,Middle East,False
+India,India,IND,Asia Pacific,True
+Japan,Japan,JPN,Asia Pacific,True
+Korea,Korea,KOR,Asia Pacific,True
+Canada,Canada,CAN,North America,True
+Mexico,Mexico,MEX,North America,True
+Brazil,Brazil,BRA,Central and South America,True
+Australia,Australia,AUS,Asia Pacific,True
+United Arab Emirates,Middle East,ARE,Middle East,True
+France,Europe,FRA,Europe,True
+Germany,Europe,DEU,Europe,True
+United Kingdom,Europe,GBR,Europe,True
+Norway,Europe,NOR,Europe,True
+Netherlands,Europe,NLD,Europe,True
+Italy,Europe,ITA,Europe,True
+Sweden,Europe,SWE,Europe,True
+Denmark,Europe,DNK,Europe,True
+Belgium,Europe,BEL,Europe,True

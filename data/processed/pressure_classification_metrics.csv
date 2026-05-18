@@ -1,0 +1,4 @@
+model,accuracy,rows
+RandomForestClassifier,0.625,16
+GradientBoostingClassifier,0.5625,16
+LogisticRegression,0.5,16

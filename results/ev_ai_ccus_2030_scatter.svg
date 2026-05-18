@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="560" viewBox="0 0 920 560"><rect width="100%" height="100%" fill="#fff"/><text x="460" y="32" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700" fill="#222">2030 combined demand vs regional pressure</text><rect x="90" y="70" width="680" height="380" fill="#fbfbfb" stroke="#ddd"/>
+<circle cx="295.0" cy="70.0" r="9" fill="#b94e48" opacity="0.82"/>
+<text x="307.0" y="74.0" font-family="Arial" font-size="11" fill="#333">China</text>
+<circle cx="174.9" cy="194.5" r="9" fill="#d1893b" opacity="0.82"/>
+<text x="186.9" y="198.5" font-family="Arial" font-size="11" fill="#333">Europe</text>
+<circle cx="246.4" cy="160.1" r="9" fill="#b94e48" opacity="0.82"/>
+<text x="258.4" y="164.1" font-family="Arial" font-size="11" fill="#333">United States</text>
+<circle cx="612.1" cy="109.3" r="9" fill="#b94e48" opacity="0.82"/>
+<text x="624.1" y="113.3" font-family="Arial" font-size="11" fill="#333">World</text>
+<circle cx="528.3" cy="193.1" r="9" fill="#d1893b" opacity="0.82"/>
+<text x="540.3" y="197.1" font-family="Arial" font-size="11" fill="#333">World</text>
+<circle cx="565.5" cy="184.1" r="9" fill="#d1893b" opacity="0.82"/>
+<text x="577.5" y="188.1" font-family="Arial" font-size="11" fill="#333">World</text>
+<circle cx="708.2" cy="166.1" r="9" fill="#d1893b" opacity="0.82"/>
+<text x="720.2" y="170.1" font-family="Arial" font-size="11" fill="#333">World</text>
+<text x="430" y="492" text-anchor="middle" font-family="Arial" font-size="13">Combined electricity demand (TWh)</text>
+<text x="35" y="260" text-anchor="middle" font-family="Arial" font-size="13" transform="rotate(-90 35,260)">Pressure score</text></svg>
