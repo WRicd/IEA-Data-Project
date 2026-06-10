@@ -1,4 +1,4 @@
-# 操作系统生成的文件
+# Operating system files
 .DS_Store
 .DS_Store?
 .Spotlight-V100
@@ -7,7 +7,7 @@ ehthumbs.db
 Thumbs.db
 Desktop.ini
 
-# 编辑器与 IDE
+# Editors and IDEs
 .vscode/
 .idea/
 *.swp
@@ -18,20 +18,33 @@ Desktop.ini
 .settings/
 *.sublime-workspace
 
-# 环境变量与密钥
+# Secrets and local environment variables
 .env
 .env.*
 *.key
 *.pem
 
-# 依赖与构建目录
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.pytest_cache/
+.pytest_cache
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage/
+
+# Dependency and build directories
 node_modules/
 bower_components/
 vendor/
-__pycache__/
-*.py[cod]
-*.so
-*.egg-info/
 dist/
 build/
 target/
@@ -41,13 +54,9 @@ out/
 *.war
 *.ear
 .gradle/
-.idea/**/workspace.xml
-.idea/**/tasks.xml
-.idea/**/usage.statistics.xml
-.idea/**/dictionaries
-.idea/**/shelf
 
-# 日志与临时文件
+# Logs and temporary files
+logs/*.log
 *.log
 *.tmp
 *.temp
@@ -56,8 +65,13 @@ out/
 *.seed
 *.pid.lock
 
-# 其它
-coverage/
-.nyc_output/
-.pytest_cache/
+# Local/generated workspace clutter
+anaconda_projects/
+processed/
 .vs/
+
+# Keep the canonical generated artifacts below unless intentionally pruning:
+# data/processed/
+# data/warehouse/
+# results/
+# EV_AI_CCUS_Interactive_Dashboard.html

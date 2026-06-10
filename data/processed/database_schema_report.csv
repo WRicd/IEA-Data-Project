@@ -112,11 +112,11 @@ ml_region_year_features,ai_growth_pressure_component,DOUBLE,,43
 ml_region_year_features,ccus_buffer_component,DOUBLE,,43
 ml_region_year_features,regional_pressure_score,DOUBLE,,43
 ml_region_year_features,pressure_class,VARCHAR,,43
-pipeline_metadata,pipeline_run_id,VARCHAR,,3
-pipeline_metadata,step,VARCHAR,,3
-pipeline_metadata,backend,VARCHAR,,3
-pipeline_metadata,python_version,VARCHAR,,3
-pipeline_metadata,created_at,VARCHAR,,3
+pipeline_metadata,pipeline_run_id,VARCHAR,,9
+pipeline_metadata,step,VARCHAR,,9
+pipeline_metadata,backend,VARCHAR,,9
+pipeline_metadata,python_version,VARCHAR,,9
+pipeline_metadata,created_at,VARCHAR,,9
 scenario_comparison_2030,common_region,VARCHAR,,21
 scenario_comparison_2030,scenario_name,VARCHAR,,21
 scenario_comparison_2030,combined_electricity_demand_twh,DOUBLE,,21

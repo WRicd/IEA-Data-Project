@@ -8,11 +8,12 @@ import pandas as pd
 ROOT = Path(__file__).resolve().parent
 RESULTS_DIR = ROOT / "results"
 PROCESSED_DIR = ROOT / "processed"
+RAW_DIR = ROOT / "data" / "raw"
 
-IEA_2023 = ROOT / "IEA-EV-Data-2023.csv"
-IEA_2024 = ROOT / "IEA-EV-Data-2024.csv"
-IEA_2025 = ROOT / "IEA-EV-Data-2025.xlsx"
-AI_ENERGY = ROOT / "Data_Energy_and_AI.xlsx"
+IEA_2023 = RAW_DIR / "IEA-EV-Data-2023.csv"
+IEA_2024 = RAW_DIR / "IEA-EV-Data-2024.csv"
+IEA_2025 = RAW_DIR / "IEA-EV-Data-2025.xlsx"
+AI_ENERGY = RAW_DIR / "Data_Energy_and_AI.xlsx"
 
 COMMON_REGION_MAP = {
     "World": "World",
